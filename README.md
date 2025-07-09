@@ -1,54 +1,43 @@
-# Tokyo-2020-Olympics-Power-BI-Dashboard
-Power BI dashboard analyzing data from the Tokyo 2020 Olympics. Includes insights on athletes, coaches, medal winners, and technical officials. Visualizes medal tallies, country performance, gender distribution, and more using five structured datasets from the games.
-# 🏅 Tokyo 2020 Olympics – Power BI Dashboard
+# Tokyo 2020 Summer Olympic Games Analysis
 
-This project presents an interactive Power BI dashboard analyzing data from the XXXII Summer Olympic Games (Tokyo 2020). It offers insights into athletes, coaches, medal winners, and technical officials.
+## Introduction
 
-The data was explored and cleaned using Python, and the final visuals were created in Power BI Desktop.
+This project analyzes data from the Tokyo 2020 Summer Olympic Games to explore athlete performance, medal distributions, and personnel demographics across participating countries. Using data analytics and visualization, the goal is to uncover insights into factors influencing Olympic success.
 
----
+## Data Description
 
-## 📊 Datasets Used
+The datasets used in this project include:
 
-- **athletes.csv** – Personal details of all athletes  
-- **coaches.csv** – Information on coaches by sport and country  
-- **medals.csv** – Medal-winning athletes and their events  
-- **medals_total.csv** – Total medal count by country  
-- **technical_officials.csv** – Data on officials overseeing the events
+- **athletes.csv**: Personal details of all athletes.
+- **coaches.csv**: Information about all coaches involved.
+- **medals.csv**: Details of all athletes who won medals.
+- **medals_total.csv**: Medal counts aggregated by country.
+- **technical_officials.csv**: Personal information about technical officials.
 
----
+Data cleaning and preprocessing were performed using Python to ensure accuracy and consistency across datasets.
 
-## 📈 Dashboard Highlights
+## Project Components
 
-- Medal tallies by country and category  
-- Medal distribution by sport and gender  
-- Athlete demographics and nationality  
-- Coach and official representation  
-- Gender balance analysis across roles
+- **Exploratory Data Analysis (EDA)**: Conducted using Python to understand data distributions and key patterns.
+- **Interactive Dashboard**: Built with Power BI to visualize medal tallies, age statistics, and personnel details. Users can select any country to view personalized statistics.
+- **Report**: Summarizes key findings and insights from the analysis.
 
----
+## How to Use
 
-## 🧪 Data Preparation
+1. Explore the Python scripts/notebooks to understand the data preparation and analysis workflow.
+2. Open the Power BI dashboard (`Tokyo2020_Olympics.pbix`) to interactively explore the data.
+3. Refer to the report file (`REPORT.md` or PDF) for a summary of insights.
 
-- Data cleaning and exploration performed using Python (pandas, matplotlib, seaborn)  
-- Cleaned datasets exported for Power BI visualization
+## Key Findings
 
----
-
-## 📁 Power BI Report File
-
-The full interactive dashboard is available as a Power BI Desktop file (`.pbix`), included in this repository:
-
-- `Tokyo2020_Olympics_Games_.pbix`
-
-### How to open and use the file:
-
-1. Download the `.pbix` file from this repository.  
-2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free for Windows).  
-3. Open the `.pbix` file in Power BI Desktop to explore and interact with the dashboard.  
-4. Customize visuals and filters as needed.
+- The United States led the medal tally with 113 medals, supported by a large team of athletes and coaches.
+- Significant age variations exist across sports, with Equestrian having some of the oldest athletes and Canoe Sprint among the youngest.
+- Coaching staff age and gender distribution reveal interesting trends in team composition.
 
 ---
+
+Feel free to customize this as per your project specifics!
+
 
 ## 👤 Author
 
