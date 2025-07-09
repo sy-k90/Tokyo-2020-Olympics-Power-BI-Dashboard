@@ -53,7 +53,7 @@ The full interactive dashboard is available as a Power BI Desktop file (`.pbix`)
 ## 👤 Author
 
 **Sana Yasmeen**  
-[LinkedIn](https://www.linkedin.com/) | [Portfolio]([sy-k90] (https://github.com/sy-k90))
+[LinkedIn](https://www.linkedin.com/) | [Portfolio](https://github.com/sy-k90))
 
 ---
 
