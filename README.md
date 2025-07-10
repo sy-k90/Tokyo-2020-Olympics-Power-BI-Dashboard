@@ -44,6 +44,9 @@ Feel free to customize this as per your project specifics!
 **Sana Yasmeen**  
 [LinkedIn](https://www.linkedin.com/) | [Portfolio](https://github.com/sy-k90)
 
+### 📌 Freelancer @ Upwork  
+[upwork.com/freelancers/~018d1e26a9733be011](https://www.upwork.com/freelancers/~018d1e26a9733be011)
+
 ---
 
 *This project is for educational purposes and uses publicly available Olympic data.*
